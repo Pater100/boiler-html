@@ -1,0 +1,13 @@
+$test: red;
+
+h1{
+  color:red;
+}
+
+.fn{
+  color:$test;
+}
+#koekje{
+  width: 100px;
+  color:red;
+}
